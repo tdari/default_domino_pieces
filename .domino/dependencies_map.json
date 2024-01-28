@@ -1,0 +1,28 @@
+{
+    "group0": {
+        "dependency": {
+            "dockerfile": null,
+            "requirements_file": "requirements_0.txt"
+        },
+        "pieces": [
+            "ToStringPiece",
+            "ToyDatasetsPiece",
+            "SleepPiece",
+            "StringConditionChecksPiece",
+            "GetItemFromArrayPiece",
+            "LogPiece",
+            "DataConversionPiece",
+            "GetDateTimePiece",
+            "SaveImagePiece",
+            "ImageFilterPiece",
+            "CustomPythonPiece",
+            "LoremIpsumGeneratorPiece",
+            "HttpRequestPiece",
+            "StringOperationsPiece",
+            "YDataProfilingPiece",
+            "PageScrapperPiece"
+        ],
+        "secrets": [],
+        "source_image": "ghcr.io/test/test:0.0.1-group0"
+    }
+}
